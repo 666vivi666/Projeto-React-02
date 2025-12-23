@@ -1,7 +1,7 @@
 
 # React + Tailwind CSS + React Router
 
-Projeto de exemplo com 3 páginas: **Início**, **Curiosidades**.
+Projeto de exemplo com 2 páginas: **Início**, **Curiosidades**.
 
 ## Requisitos
 - Node.js (LTS) e npm ou pnpm.
